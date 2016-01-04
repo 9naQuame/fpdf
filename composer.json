@@ -1,6 +1,6 @@
 {
-    "name": "itbz/fpdf",
-    "description": "Unofficial PSR-0 compliant version of the FPDF library",
+    "name": "9naquame/fpdf",
+    "description": "A fork of itbz/fpdf to cater for my dependencies",
     "homepage": "http://www.fpdf.org/",
     "license": "no usage restriction",
     "type": "library",
